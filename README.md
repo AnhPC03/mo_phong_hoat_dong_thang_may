@@ -1,11 +1,11 @@
-B�i to�n m� ph?ng ho?t d?ng thang m�y 
+Bài toán mô phỏng hoạt động thang máy 
 
-Gi�o vi�n hu?ng d?n: ThS.Nguy?n M?nh Tu?n
+Giáo viên hướng dẫn: ThS.Nguyễn Mạnh Tuấn
 
-Nh�m 2
-Th�nh vi�n:
-1. Nguy?n Ti?n Anh
-2. ��o S? M?nh
-3. Nguy?n Van Trung Hi?u
-4. �inh Quang �?t
-5. Ph?m L� Minh Tr�
+Nhóm 2
+Thành viên:
+1. Nguyễn Tiến Anh
+2. Ðào Sỹ Mạnh
+3. Nguyễn Văn Trung Hiếu
+4. Ðinh Quang Đạt
+5. Phạm Lê Minh Trí
